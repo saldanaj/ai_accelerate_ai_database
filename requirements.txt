@@ -1,0 +1,10 @@
+numpy
+openai
+python-dotenv
+azure-core
+azure-cosmos
+ipykernel
+pandas
+pydantic
+scikit-learn
+scipy

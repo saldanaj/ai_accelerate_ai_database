@@ -1,13 +1,3 @@
-numpy
-openai
-python-dotenv
-azure-core
-azure-cosmos
-ipykernel
-pandas
-pydantic
-scikit-learn
-scipy
 Flask==3.0.3
 Flask-SocketIO==5.4.1
 azure-cosmos==4.7.0

@@ -1,1 +1,3 @@
 *.pptx
+localsettings.env
+__pycache__/
